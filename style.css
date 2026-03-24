@@ -178,7 +178,8 @@ body {
 }
 
 .continue-btn:focus {
-    background: linear-gradient(to bottom, hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    width: 90%;
+    background-color: hsl(224, 30%, 26%);
 }
 
 
